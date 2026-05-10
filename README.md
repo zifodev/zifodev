@@ -108,7 +108,7 @@ https://codepen.io/editor/Zihadul-Islam-FOYSAL/pen/019de19e-bc64-7984-8ef2-0a4bd
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/zifodev
-- LinkedIn: https://www.linkedin.com
+- LinkedIn: https://www.linkedin.com/in/zihad-foysal/
 
 ---
 
