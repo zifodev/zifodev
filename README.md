@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Zihad Foysal 👋
 
-<!--
-**zifodev/zifodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-Assisted Web & App Developer based in Sydney.
 
-Here are some ideas to get you started:
+## 🚀 Currently Building
+- VoiceCraft AI — AI voice enhancement & video processing app
+- Outback Cartel — E-commerce business website
+- AI Guidance App — No-code hackathon project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- Web Development
+- App Development
+- AI-Assisted Development
+- Java
+- Python
+- JavaScript
+- HTML/CSS
+- UI/UX Design
+
+## 🌱 Currently Learning
+- Agentic AI
+- Software Engineering
+- AI Workflows
+- Product Development
